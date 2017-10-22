@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  (function($) {
+    "use strict"; // Start of use strict
+
+    // Smooth scrolling using jQuery easing
+    $('a.js-scroll-trigger[href*="#"]:not([href="#"])').click(function() {
+      if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
+        var target = $(this.hash);
+        target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+        if (target.length) {
+          $('html, body').animate({
+            scrollTop: (target.offset().top - 48)
+          }, 1000, "easeInOutExpo");
+          return false;
+        }
+      }
+    });
+</head>
+<body>
+  <a href= http://tiffanys interests.html> go to tiffanys interests website </a>
+  <h3> Food culture </h3>
+  <img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROE0aBpqwuWckWs9C_JExRV_dYiebeA5moVs1kOhVIQChSGAA->
+</html>

@@ -1,0 +1,15 @@
+.flex-a {
+  background-color: gray; height: 100px;
+}
+.flex-b {
+  background-color: blue; height: 200px
+}
+.flex-c { background-color: pink; height:200px;}
+.flex-d {background-color: orange; height: 400px; }
+.flex-e {background-color: green; width: 50%; height: 100px; }
+.flex-f {background-color: yellow; width:33%; height: 200px; float: left}
+.flex-g {background-color: purple; width: 50%; height: 200px; float:left}
+.flex-h {background-color: pink; width: 25%;height: 200px;}
+.flex-i {background-color: red; width:50%; height: 100px; float: right}
+.flex-j {background-color: black; width:25%; height: 200px; float: right}
+.flex-k {background-color: blue; width: 25%; height: 200px; float: right}

@@ -1,0 +1,13 @@
+
+.flex-container1 {
+  background-color: gray; height: 600px; width: 600px;}
+  .flex-1 {
+  background-color: blue; height: 200px; width: 100%}
+  .flex-2 {background-color: pink; height: 200px; width: 50%; float: left;}
+
+.flex-container2{background-color: gray; height: 200px; width:50%; float: right; }
+  .flex-3 {background-color: green;height: 50%;}
+  .flex-4 {background-color: yellow; height: 50%;}
+
+  .flex-5 {background-color: purple; height: 200px; width: 300px; float: left}
+  .flex-6 {background-color: red; height: 200px; width:300px; float: right}
